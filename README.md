@@ -2,6 +2,10 @@
 
 BISMILLAH NILAI A
 
+KETERANGAN : Run main.dart , lalu tiba di halaman list makanan, di halaman ini bisa melakukan pencarian makananan. lalu 
+             ketika salah satu makanan di klik, maka halaman akan berpindah ke halaman detail makanan tersebut, yang
+             isinya kategori makanan, asak makanan, bahan bahan, dan instruksi masak
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
