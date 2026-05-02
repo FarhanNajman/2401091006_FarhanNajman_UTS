@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RSUP Dr. M. Djamil Padang",
+    "image": "assets/images/hospital1.jpg",
+    "desc": "Rumah sakit rujukan utama di Sumatera Barat dengan layanan lengkap."
+  },
+  {
+    "name": "RS Yos Sudarso",
+    "image": "assets/images/hospital2.jpg",
+    "desc": "Rumah sakit umum dengan fasilitas modern di pusat kota Padang."
+  },
+  {
+    "name": "RS Universitas Andalas",
+    "image": "assets/images/hospital3.jpg",
+    "desc": "Rumah sakit pendidikan milik Universitas Andalas, melayani masyarakat dan mahasiswa."
+  },
+  {
+    "name": "RS Bunda Padang",
+    "image": "assets/images/hospital4.jpg",
+    "desc": "Rumah sakit swasta dengan layanan ibu dan anak serta fasilitas umum."
+  }
+]
